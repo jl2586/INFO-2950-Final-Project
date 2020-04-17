@@ -1,0 +1,55 @@
+﻿LINK TO GITHUB: https://github.com/jl2586/INFO-2950-Final-Project
+
+
+UBER:
+
+
+Collect average costs of rides across the US to find out about surge pricing patterns
+
+
+https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city
+
+
+https://developer.uber.com/docs/riders/references/api/v1.2/estimates-price-get
+
+
+https://www.intelligenteconomist.com/uberx-pricing-data/
+
+
+https://futurism.com/uber-releases-a-staggering-2-billion-trips-worth-of-traffic-data
+
+
+AMAZON:
+
+
+Collect data on Amazon sellers to determine which product categories Amazon should favor
+
+
+https://www.sellerapp.com/blog/amazon-seller-statistics/
+
+
+https://www.feedbackexpress.com/amazon-1029528-new-sellers-year-plus-stats/
+
+
+https://www.cnbc.com/2019/11/19/amazon-uses-aggregated-data-from-sellers-to-build-its-own-products.html
+
+
+https://www.junglescout.com/amazon-seller-report/
+
+
+COLLEGE BASKETBALL NCAA:
+
+
+Can Analyze NCAA Stats to search for existing or potential trends, possibly do something with march madness
+
+
+https://stats.ncaa.org/rankings/change_sport_year_div
+
+
+https://www.ncaa.com/stats/basketball-men/d1
+
+
+http://www.espn.com/mens-college-basketball/statistics
+
+
+https://www.kaggle.com/ncaa/ncaa-basketball
